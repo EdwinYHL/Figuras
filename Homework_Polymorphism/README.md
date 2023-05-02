@@ -58,6 +58,6 @@ En general, este código es un buen ejemplo de cómo se puede implementar un jue
 
 ---
 # Referencias.
-[^1]: M. (2023, 22 abril). JavaScript Random. https://www.w3schools.com/js/js_random.asp
+ M. (2023, 22 abril). JavaScript Random. https://www.w3schools.com/js/js_random.asp
 [^2]: M. (2022, 14 marzo). ¿Qué son los paradigmas de programación? Profile Software Services. https://profile.es/blog/que-son-los-paradigmas-de-programacion/
 
