@@ -14,7 +14,7 @@
 
 ---
 
-
+[Game](https://github.com/EdwinYHL/Figuras/blob/main/Homework_Polymorphism/Game.js)
 ## 1. Función del Programa.
 Este código es una implementación del juego de Flappy Bird en JavaScript. En el juego, el jugador controla un pájaro que debe pasar a través de tuberías que se mueven hacia la izquierda en la pantalla. El objetivo del juego es obtener la mayor cantidad de puntos posible al pasar por las tuberías sin chocar contra ellas o tocar el suelo.
 
