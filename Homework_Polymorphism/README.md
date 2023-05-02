@@ -55,7 +55,7 @@ En general, este código es un buen ejemplo de cómo se puede implementar un jue
 ***
 # *UML: Diagrama de clases*
 ***
-
+[Diagrama](https://raw.githubusercontent.com/EdwinYHL/Figuras/main/Homework_Polymorphism/game.drawio.png)
 ---
 # Referencias.
  M. (2023, 18 abril). JavaScript Random. https://www.w3schools.com/js/js_random.asp
