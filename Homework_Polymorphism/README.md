@@ -44,7 +44,7 @@ La función keyPressed() detecta cuando se presiona la tecla espaciadora y hace 
 
 La función mouseClicked() hace lo mismo que keyPressed(), permitiendo que el usuario haga que el pájaro salte haciendo clic en la pantalla.
 
-##### *Un ejemplo de polimorfismo en la forma en que se dibujan los tubos. El método drawPipes() de la clase Pipes dibuja dos rectángulos para cada tubo, uno en la parte superior y otro en la parte inferior de la pantalla. Estos rectángulos se dibujan usando la función rect(), que también se utiliza para dibujar el pájaro en la pantalla en el método draw() de la clase Bird. Aunque drawPipes() y draw() utilizan la misma función de dibujo, se están aplicando a objetos de clases diferentes y cumpliendo con un propósito diferente. Esto es un ejemplo de polimorfismo.*
+#### *Un ejemplo de polimorfismo en la forma en que se dibujan los tubos. El método drawPipes() de la clase Pipes dibuja dos rectángulos para cada tubo, uno en la parte superior y otro en la parte inferior de la pantalla. Estos rectángulos se dibujan usando la función rect(), que también se utiliza para dibujar el pájaro en la pantalla en el método draw() de la clase Bird. Aunque drawPipes() y draw() utilizan la misma función de dibujo, se están aplicando a objetos de clases diferentes y cumpliendo con un propósito diferente. Esto es un ejemplo de polimorfismo.*
 
 En general, este código es un buen ejemplo de cómo se puede implementar un juego simple usando JavaScript y p5.js.
 
