@@ -2,9 +2,13 @@
 # *Tarea de Polimorfismo*
 ***
 *Tabla de contendo.*
-1. Paradigma OO.
-* Definición de Paradigma.
-* Definición de Programación Orientada a Objetos.
+1. Función del Programa.
+* Variables y constantes.
+* Funciones.
+* Clases.
+* El constructor.
+* La función draw().
+* Teclado y ratón.
 2. UML.
 * Diagrama.
 
@@ -29,7 +33,7 @@ Después de definir las clases, el código crea instancias de Bird y Pipes utili
 ### La función draw():
 La función draw() se llama repetidamente por p5.js para dibujar la ventana del juego. La función comienza dibujando el fondo y el suelo del juego. Luego dibuja y actualiza el pájaro y las tuberías. Finalmente, dibuja el puntaje del jugador.
 
-### Eventos de teclado y ratón:
+### Teclado y ratón:
 El código define dos funciones, keyPressed() y mouseClicked(), que se llaman cuando el usuario presiona una tecla o hace clic en el mouse, respectivamente. Ambas funciones llaman al método flap() de Bird para hacer que el pájaro salte.
 
 El juego consta de dos clases principales: Bird (pájaro) y Pipes (tuberías). La clase Bird se encarga de manejar el movimiento del pájaro y detectar cuando el pájaro ha chocado con una tubería o el suelo. La clase Pipes se encarga de manejar las tuberías que aparecen en la pantalla y moverlas hacia la izquierda.
@@ -54,6 +58,6 @@ En general, este código es un buen ejemplo de cómo se puede implementar un jue
 
 ---
 # Referencias.
-[^1]: M. (2022, 14 marzo). ¿Qué son los paradigmas de programación? Profile Software Services. https://profile.es/blog/que-son-los-paradigmas-de-programacion/
+[^1]: M. (2023, 22 abril). JavaScript Random. https://www.w3schools.com/js/js_random.asp
 [^2]: M. (2022, 14 marzo). ¿Qué son los paradigmas de programación? Profile Software Services. https://profile.es/blog/que-son-los-paradigmas-de-programacion/
 
