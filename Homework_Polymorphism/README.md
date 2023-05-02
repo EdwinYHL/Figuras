@@ -14,7 +14,7 @@
 ## 1. 
 Este código es una implementación del juego de Flappy Bird en JavaScript. En el juego, el jugador controla un pájaro que debe pasar a través de tuberías que se mueven hacia la izquierda en la pantalla. El objetivo del juego es obtener la mayor cantidad de puntos posible al pasar por las tuberías sin chocar contra ellas o tocar el suelo.
 
-Variables y constantes:
+*Variables y constantes:
 El código comienza definiendo algunas variables y constantes. GRAVITY, JUMP_HEIGHT y GROUND_HEIGHT se refieren a la gravedad, la altura del salto del pájaro y la altura del suelo, respectivamente. WIDTH y HEIGHT representan el ancho y la altura de la ventana del juego. SCROLL_SPEED es la velocidad a la que se mueven las tuberías y SCORE es el puntaje del jugador.
 
 Funciones:
